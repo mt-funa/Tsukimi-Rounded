@@ -1,5 +1,5 @@
 {
-.appVersion = "1280";
+.appVersion = "1283";
 DisplayStrings = (
 "/a-hira/i-hira/u-hira/e-hira/o-hira \012/asmall-hira/ismall-hira/usmall-hira/esmall-hira/osmall-hira \012/ka-hira/ki-hira/ku-hira/ke-hira/ko-hira \012/ga-hira/gi-hira/gu-hira/ge-hira/go-hira \012/sa-hira/si-hira/su-hira/se-hira/so-hira \012/za-hira/zi-hira/zu-hira/ze-hira/zo-hira \012/ta-hira/ti-hira/tu-hira/te-hira/to-hira \012/da-hira/di-hira/du-hira/de-hira/do-hira \012/na-hira/ni-hira/nu-hira/ne-hira/no-hira \012/ha-hira/hi-hira/hu-hira/he-hira/ho-hira \012/ba-hira/bi-hira/bu-hira/be-hira/bo-hira \012/pa-hira/pi-hira/pu-hira/pe-hira/po-hira \012/ma-hira/mi-hira/mu-hira/me-hira/mo-hira \012/ya-hira/yu-hira/yo-hira/prolonged-kana \012/yasmall-hira/yusmall-hira/yosmall-hira \012/ra-hira/ri-hira/a-hira/ru-hira/re-hira/ro-hira \012/wa-hira/wi-hira/wo-hira/we-hira/n-hira \012/yasmall-hira/tusmall-hira/wasmall-hira/yusmall-hira \012/si-hira/ma-hira/tusmall-hira/ta-hira/period-han \012/a-hira/ri-hira/ga-hira/to-hira/u-hira/go-hira/za-hira/i-hira/ma-hira/su-hira/period-han \012/ko-hira/n-hira/ni-hira/ti-hira/ha-hira \012/sa-hira/yo-hira/u-hira/na-hira/ra-hira \012/a-hira/ta-hira/ra-hira/si-hira/i-hira/a-hira/sa-hira/ga-hira/ki-hira/ta-hira \012/ki-hira/bo-hira/u-hira/no-hira/a-hira/sa-hira/da-hira \012/yo-hira/ro-hira/ko-hira/bi-hira/ni-hira/mu-hira/ne-hira/wo-hira/hi-hira/ra-hira/ke-hira \012/o-hira/o-hira/zo-hira/ra-hira/a-hira/o-hira/ge-hira \012/ra-hira/zi-hira/o-hira/no-hira/ko-hira/e-hira/ni-hira \012/su-hira/ko-hira/ya-hira/ka-hira/na-hira/mu-hira/ne-hira/wo-hira \012/ko-hira/no-hira/ka-hira/o-hira/ru-hira/ka-hira/ze-hira/ni-hira/hi-hira/ra-hira/ke-hira/yo-hira",
 "\012/ka-hira/ki-hira/ku-hira/ke-hira/ko-hira \012/a-kata/i-kata/u-kata/e-kata/o-kata \012/asmall-kata/ismall-kata/usmall-kata/esmall-kata/osmall-kata \012/ka-kata/ki-kata/ku-kata/ke-kata/ko-kata \012/ga-kata/gi-kata/gu-kata/ge-kata/go-kata \012/sa-kata/si-kata/su-kata/se-kata/so-kata \012/za-kata/zi-kata/zu-kata/ze-kata/zo-kata \012/ta-kata/ti-kata/tu-kata/te-kata/to-kata \012/asmall-kata/tusmall-kata/kasmall-kata/kesmall-kata \012/da-kata/di-kata/du-kata/de-kata/do-kata \012/na-kata/ni-kata/nu-kata/ne-kata/me-kata/no-kata \012/ha-kata/hi-kata/hu-kata/he-kata/ho-kata \012/ba-kata/bi-kata/bu-kata/be-kata/bo-kata \012/pa-kata/pi-kata/pu-kata/pe-kata/po-kata \012/ma-kata/mi-kata/mu-kata/me-kata/mo-kata \012/ya-kata/yu-kata/yo-kata \012/asmall-kata/yasmall-kata/tusmall-kata/yusmall-kata/yosmall-kata/wasmall-kata \012/ra-kata/ri-kata/ru-kata/re-kata/ro-kata \012/wa-kata/wi-kata/wo-kata/we-kata/n-kata/vu-kata \012\012/ra-kata/n-kata/de-kata/vu-kata/prolonged-kana \012/bo-kata/na-kata/n-kata/za-kata \012/go-kata/ru-kata/ba-kata/ti-kata/yosmall-kata/hu-kata \012/de-kata/za-kata/i-kata/n-kata  /sa-kata/i-kata/n-kata \012/ta-kata/i-kata/po-kata/gu-kata/ra-kata/hu-kata/ismall-kata \012/hu-kata/asmall-kata/hu-kata/ismall-kata/hu-kata/esmall-kata/hu-kata/osmall-kata \012/ti-kata/yasmall-kata/ti-kata/yusmall-kata/ti-kata/yosmall-kata \012/si-kata/yasmall-kata/si-kata/yusmall-kata/si-kata/yosmall-kata/zi-kata/yasmall-kata/zi-kata/yusmall-kata/zi-kata/yosmall-kata \012/di-kata/yasmall-kata \012/wa-kata/i-kata/n-kata",
@@ -16,7 +16,7 @@ value = "Adobe-Identity-0";
 },
 {
 name = localizedFamilyName;
-value = "Japanese;つきみ丸ゴかなv003";
+value = "Japanese;つきみ丸ゴかな";
 },
 {
 name = license;
@@ -44,11 +44,11 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2019-12-08 04:44:04 +0000";
+date = "2020-01-06 14:33:46 +0000";
 designer = "Takashi Funayama";
 designerURL = "http://mt-funa.com";
 disablesAutomaticAlignment = 1;
-familyName = "Tsukimi-Rounded";
+familyName = "Tsukimi Rounded";
 featurePrefixes = (
 {
 automatic = 1;
@@ -235,7 +235,28 @@ name = vkna;
 },
 {
 automatic = 1;
-code = "sub anglebracketleft by anglebracketleft.vert;
+code = "sub asmall-hira by asmall-hira.vert;
+sub ismall-hira by ismall-hira.vert;
+sub usmall-hira by usmall-hira.vert;
+sub esmall-hira by esmall-hira.vert;
+sub osmall-hira by osmall-hira.vert;
+sub tusmall-hira by tusmall-hira.vert;
+sub yasmall-hira by yasmall-hira.vert;
+sub yusmall-hira by yusmall-hira.vert;
+sub yosmall-hira by yosmall-hira.vert;
+sub wasmall-hira by wasmall-hira.vert;
+sub asmall-kata by asmall-kata.vert;
+sub ismall-kata by ismall-kata.vert;
+sub usmall-kata by usmall-kata.vert;
+sub esmall-kata by esmall-kata.vert;
+sub osmall-kata by osmall-kata.vert;
+sub kasmall-kata by kasmall-kata.vert;
+sub kesmall-kata by kesmall-kata.vert;
+sub tusmall-kata by tusmall-kata.vert;
+sub yasmall-kata by yasmall-kata.vert;
+sub yusmall-kata by yusmall-kata.vert;
+sub yosmall-kata by yosmall-kata.vert;
+sub anglebracketleft by anglebracketleft.vert;
 sub anglebracketright by anglebracketright.vert;
 sub blacklenticularbracketleft by blacklenticularbracketleft.vert;
 sub blacklenticularbracketright by blacklenticularbracketright.vert;
@@ -251,7 +272,10 @@ sub parenleft.full by parenleft.full.vert;
 sub parenright.full by parenright.full.vert;
 sub whitecornerbracketleft by whitecornerbracketleft.vert;
 sub whitecornerbracketright by whitecornerbracketright.vert;
+sub comma-han by comma-han.vert;
+sub period-han by period-han.vert;
 sub asciitilde.full by asciitilde.full.vert;
+sub prolonged-kana by prolonged-kana.vert;
 ";
 name = vrt2;
 },
@@ -2659,7 +2683,7 @@ transform = "{1, 0, 0, 1, 160, 250}";
 }
 );
 layerId = "F0262224-B9C7-46EB-9294-168F9DBDA589";
-width = 600;
+width = 779;
 },
 {
 components = (
@@ -2672,9 +2696,11 @@ transform = "{1, 0, 0, 1, 160, 250}";
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
-width = 600;
+width = 879;
 }
 );
+leftMetricsKey = "=N";
+rightMetricsKey = "=N";
 unicode = 00D1;
 },
 {
@@ -3085,7 +3111,7 @@ nodes = (
 );
 }
 );
-width = 947;
+width = 936;
 },
 {
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
@@ -3172,6 +3198,7 @@ width = 1042;
 }
 );
 leftMetricsKey = "=O";
+rightMetricsKey = "=E";
 unicode = 0152;
 },
 {
@@ -53959,11 +53986,11 @@ instances = (
 customParameters = (
 {
 name = postscriptFontName;
-value = "TkmRoV3-Lt";
+value = "TkmRo-Lt";
 },
 {
 name = postscriptFullName;
-value = "Tsukimi Rounded v003 Light";
+value = "Tsukimi Rounded Light";
 },
 {
 name = localizedStyleName;
@@ -53981,11 +54008,11 @@ weightClass = Light;
 customParameters = (
 {
 name = postscriptFontName;
-value = "TkmRoV3-Rg";
+value = "TkmRo-Rg";
 },
 {
 name = postscriptFullName;
-value = "Tsukimi Rounded v003 Regular";
+value = "Tsukimi Rounded Regular";
 },
 {
 name = localizedStyleName;
@@ -54003,11 +54030,11 @@ name = Regular;
 customParameters = (
 {
 name = postscriptFontName;
-value = "TkmRoV3-Md";
+value = "TkmRo-Md";
 },
 {
 name = postscriptFullName;
-value = "Tsukimi Rounded v003 Medium";
+value = "Tsukimi Rounded Medium";
 },
 {
 name = localizedStyleName;
@@ -54026,11 +54053,11 @@ weightClass = Medium;
 customParameters = (
 {
 name = postscriptFontName;
-value = "TkmRoV3-SB";
+value = "TkmRo-SB";
 },
 {
 name = postscriptFullName;
-value = "Tsukimi Rounded v003 SemiBold";
+value = "Tsukimi Rounded SemiBold";
 },
 {
 name = localizedStyleName;
@@ -54049,11 +54076,11 @@ weightClass = SemiBold;
 customParameters = (
 {
 name = postscriptFontName;
-value = "TkmRoV3-Bd";
+value = "TkmRo-Bd";
 },
 {
 name = postscriptFullName;
-value = "Tsukimi Rounded v003 Bold";
+value = "Tsukimi Rounded Bold";
 },
 {
 name = localizedStyleName;

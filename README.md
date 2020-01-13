@@ -1,9 +1,4 @@
 <<<<<<< HEAD
-つきみ丸ゴかな
-Tsukimi Rounded
-
-築地体三号の細い方の骨格を参考にしたかな書体です。築地体三号の細い方の骨格を参考にしたかな書体です。築地体三号の細い方の骨格を参考にしたかな書体です。
-=======
 <img src="./Documentation/jpg/tsukimi_img_sample1.jpg" />
 
 つきみ丸ゴかな<br />

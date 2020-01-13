@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="./Documentation/jpg/tsukimi_img_sample1.jpg" />
 
 つきみ丸ゴかな<br />
@@ -38,4 +37,3 @@ Original san-go type is Mincho style but Tsukimi Rounded is sans-serif typeface 
 <h2>できないこと</h2>
 ・「SIL Open Font License Version 1.1」以外のライセンスで再配布すること。<br />
 ・フォントファイル自体を単体で販売すること。<br />
->>>>>>> develop001

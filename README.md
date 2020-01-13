@@ -31,6 +31,7 @@ Original san-go type is Mincho style but Tsukimi Rounded is sans-serif typeface 
 <h2>収録文字</h2>
 ・latin_unique-glyphs.namファイルにリストされている215個のグリフ<br />
 ・ひらがな（108）、カタカナ（101）、一部全角記号<br />
+・合計530グリフ
 
 
 <h2>できないこと</h2>

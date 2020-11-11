@@ -1,12 +1,13 @@
 {
-.appVersion = "1283";
+.appVersion = "1342";
 DisplayStrings = (
 "/a-hira/i-hira/u-hira/e-hira/o-hira \012/asmall-hira/ismall-hira/usmall-hira/esmall-hira/osmall-hira \012/ka-hira/ki-hira/ku-hira/ke-hira/ko-hira \012/ga-hira/gi-hira/gu-hira/ge-hira/go-hira \012/sa-hira/si-hira/su-hira/se-hira/so-hira \012/za-hira/zi-hira/zu-hira/ze-hira/zo-hira \012/ta-hira/ti-hira/tu-hira/te-hira/to-hira \012/da-hira/di-hira/du-hira/de-hira/do-hira \012/na-hira/ni-hira/nu-hira/ne-hira/no-hira \012/ha-hira/hi-hira/hu-hira/he-hira/ho-hira \012/ba-hira/bi-hira/bu-hira/be-hira/bo-hira \012/pa-hira/pi-hira/pu-hira/pe-hira/po-hira \012/ma-hira/mi-hira/mu-hira/me-hira/mo-hira \012/ya-hira/yu-hira/yo-hira/prolonged-kana \012/yasmall-hira/yusmall-hira/yosmall-hira \012/ra-hira/ri-hira/a-hira/ru-hira/re-hira/ro-hira \012/wa-hira/wi-hira/wo-hira/we-hira/n-hira \012/yasmall-hira/tusmall-hira/wasmall-hira/yusmall-hira \012/si-hira/ma-hira/tusmall-hira/ta-hira/period-han \012/a-hira/ri-hira/ga-hira/to-hira/u-hira/go-hira/za-hira/i-hira/ma-hira/su-hira/period-han \012/ko-hira/n-hira/ni-hira/ti-hira/ha-hira \012/sa-hira/yo-hira/u-hira/na-hira/ra-hira \012/a-hira/ta-hira/ra-hira/si-hira/i-hira/a-hira/sa-hira/ga-hira/ki-hira/ta-hira \012/ki-hira/bo-hira/u-hira/no-hira/a-hira/sa-hira/da-hira \012/yo-hira/ro-hira/ko-hira/bi-hira/ni-hira/mu-hira/ne-hira/wo-hira/hi-hira/ra-hira/ke-hira \012/o-hira/o-hira/zo-hira/ra-hira/a-hira/o-hira/ge-hira \012/ra-hira/zi-hira/o-hira/no-hira/ko-hira/e-hira/ni-hira \012/su-hira/ko-hira/ya-hira/ka-hira/na-hira/mu-hira/ne-hira/wo-hira \012/ko-hira/no-hira/ka-hira/o-hira/ru-hira/ka-hira/ze-hira/ni-hira/hi-hira/ra-hira/ke-hira/yo-hira",
-"\012/ka-hira/ki-hira/ku-hira/ke-hira/ko-hira \012/a-kata/i-kata/u-kata/e-kata/o-kata \012/asmall-kata/ismall-kata/usmall-kata/esmall-kata/osmall-kata \012/ka-kata/ki-kata/ku-kata/ke-kata/ko-kata \012/ga-kata/gi-kata/gu-kata/ge-kata/go-kata \012/sa-kata/si-kata/su-kata/se-kata/so-kata \012/za-kata/zi-kata/zu-kata/ze-kata/zo-kata \012/ta-kata/ti-kata/tu-kata/te-kata/to-kata \012/asmall-kata/tusmall-kata/kasmall-kata/kesmall-kata \012/da-kata/di-kata/du-kata/de-kata/do-kata \012/na-kata/ni-kata/nu-kata/ne-kata/me-kata/no-kata \012/ha-kata/hi-kata/hu-kata/he-kata/ho-kata \012/ba-kata/bi-kata/bu-kata/be-kata/bo-kata \012/pa-kata/pi-kata/pu-kata/pe-kata/po-kata \012/ma-kata/mi-kata/mu-kata/me-kata/mo-kata \012/ya-kata/yu-kata/yo-kata \012/asmall-kata/yasmall-kata/tusmall-kata/yusmall-kata/yosmall-kata/wasmall-kata \012/ra-kata/ri-kata/ru-kata/re-kata/ro-kata \012/wa-kata/wi-kata/wo-kata/we-kata/n-kata/vu-kata \012\012/ra-kata/n-kata/de-kata/vu-kata/prolonged-kana \012/bo-kata/na-kata/n-kata/za-kata \012/go-kata/ru-kata/ba-kata/ti-kata/yosmall-kata/hu-kata \012/de-kata/za-kata/i-kata/n-kata  /sa-kata/i-kata/n-kata \012/ta-kata/i-kata/po-kata/gu-kata/ra-kata/hu-kata/ismall-kata \012/hu-kata/asmall-kata/hu-kata/ismall-kata/hu-kata/esmall-kata/hu-kata/osmall-kata \012/ti-kata/yasmall-kata/ti-kata/yusmall-kata/ti-kata/yosmall-kata \012/si-kata/yasmall-kata/si-kata/yusmall-kata/si-kata/yosmall-kata/zi-kata/yasmall-kata/zi-kata/yusmall-kata/zi-kata/yosmall-kata \012/di-kata/yasmall-kata \012/wa-kata/i-kata/n-kata",
+"\012/ka-hira/ki-hira/ku-hira/ke-hira/ko-hira \012/a-kata/i-kata/u-kata/e-kata/o-kata \012/asmall-kata/ismall-kata/usmall-kata/esmall-kata/osmall-kata \012/ka-kata/ki-kata/ku-kata/ke-kata/ko-kata \012/ga-kata/gi-kata/gu-kata/ge-kata/go-kata \012/sa-kata/si-kata/su-kata/se-kata/so-kata \012/za-kata/zi-kata/zu-kata/ze-kata/zo-kata \012/ta-kata/ti-kata/tu-kata/te-kata/to-kata \012/asmall-kata/tusmall-kata/kasmall-kata/kesmall-kata \012/da-kata/di-kata/du-kata/de-kata/do-kata \012/na-kata/ni-kata/nu-kata/ne-kata/me-kata/no-kata \012/ha-kata/hi-kata/hu-kata/he-kata/ho-kata \012/ba-kata/bi-kata/bu-kata/be-kata/bo-kata \012/pa-kata/pi-kata/pu-kata/pe-kata/po-kata \012/ma-kata/mi-kata/mu-kata/me-kata/mo-kata \012/ya-kata/yu-kata/yo-kata \012/asmall-kata/yasmall-kata/tusmall-kata/yusmall-kata/yosmall-kata/wasmall-kata \012/ra-kata/ri-kata/ru-kata/re-kata/ro-kata \012/wa-kata/wi-kata/wo-kata/we-kata/n-kata/vu-kata \012\012/ra-kata/n-kata/de-kata/vu-kata/prolonged-kana \012/bo-kata/na-kata/n-kata/za-kata \012/go-kata/ru-kata/ba-kata/ti-kata/yosmall-kata/hu-kata \012/de-kata/za-kata/i-kata/n-kata/space/sa-kata/i-kata/n-kata \012/ta-kata/i-kata/po-kata/gu-kata/ra-kata/hu-kata/ismall-kata \012/hu-kata/asmall-kata/hu-kata/ismall-kata/hu-kata/esmall-kata/hu-kata/osmall-kata \012/ti-kata/yasmall-kata/ti-kata/yusmall-kata/ti-kata/yosmall-kata \012/si-kata/yasmall-kata/si-kata/yusmall-kata/si-kata/yosmall-kata/zi-kata/yasmall-kata/zi-kata/yusmall-kata/zi-kata/yosmall-kata \012/di-kata/yasmall-kata \012/wa-kata/i-kata/n-kata",
 "/a-hira/u-hira/a-kata/o-hira/ku-hira/re-hira/dot-kata/ya-hira/su-hira/mi-hira \012/a-hira/su-hira/comma-han/zu-hira/ma-hira/period-han/i-hira/na-hira",
 "/a-kata/no-kata/asmall-kata/i-kata/no-kata/ismall-kata/u-kata/i-kata/no-kata/usmall-kata/e-kata/esmall-kata/o-kata/osmall-kata/ka-kata/kasmall-kata \012/ga-kata/ki-kata/gi-kata/ku-kata/gu-kata/ke-kata/i-kata/kesmall-kata/ge-kata/ko-kata/go-kata/sa-kata/i-kata/za-kata/i-kata \012/si-kata/i-kata/zi-kata/i-kata/su-kata/zu-kata/se-kata/ze-kata/so-kata/i-kata/zo-kata/i-kata/ta-kata/i-kata \012/da-kata/i-kata/ti-kata/i-kata/di-kata/no-kata/i-kata/tu-kata/i-kata/tusmall-kata/du-kata/i-kata/te-kata/i-kata \012/de-kata/i-kata/to-kata/do-kata/na-kata/i-kata/ni-kata/nu-kata/ne-kata/no-kata/i-kata/ha-kata/ba-kata/pa-kata/hi-kata/bi-kata/pi-kata/hu-kata/i-kata/bu-kata/i-kata/pu-kata/i-kata/he-kata/be-kata/pe-kata/ho-kata/bo-kata/po-kata/hu-kata/ru-kata/me-kata/ta-kata/ru-kata/pa-kata/ni-kata/tusmall-kata/ku-kata \012/ma-kata/i-kata/mi-kata/mu-kata/me-kata/i-kata/mo-kata/ya-kata/i-kata/yasmall-kata/yu-kata/yusmall-kata/yo-kata/yosmall-kata \012/ra-kata/i-kata/ri-kata/i-kata/ru-kata/i-kata/re-kata/i-kata/ro-kata/wa-kata/i-kata/wasmall-kata/va-kata/wi-kata/vi-kata/we-kata/ve-kata/wo-kata/vo-kata/n-kata \012\012/si-kata/i-kata/si-kata/ku-kata/si-kata/no-kata/si-kata/me-kata/si-kata/ru-kata/si-kata/ta-kata/si-kata/da-kata/si-kata/gu-kata/si-kata/tusmall-kata \012/zi-kata/i-kata/zi-kata/ku-kata/zi-kata/no-kata/zi-kata/me-kata/zi-kata/ru-kata/zi-kata/ta-kata/zi-kata/da-kata/zi-kata/gu-kata/zi-kata/tusmall-kata \012/ru-kata/i-kata/ru-kata/ku-kata/ru-kata/no-kata/ru-kata/me-kata/ru-kata/ru-kata/ru-kata/ta-kata/ru-kata/da-kata/ru-kata/gu-kata/ru-kata/tusmall-kata \012/n-kata/i-kata/n-kata/ku-kata/n-kata/no-kata/n-kata/me-kata/n-kata/ru-kata/n-kata/ta-kata/n-kata/da-kata/n-kata/gu-kata/n-kata/tusmall-kata \012\012/ku-kata/i-kata/ku-kata/ku-kata/ku-kata/no-kata/ku-kata/me-kata/ku-kata/ru-kata/ku-kata/ta-kata/ku-kata/da-kata/ku-kata/gu-kata/ku-kata/tusmall-kata \012/gu-kata/i-kata/gu-kata/ku-kata/gu-kata/no-kata/gu-kata/me-kata/gu-kata/ru-kata/gu-kata/ta-kata/gu-kata/da-kata/gu-kata/gu-kata/gu-kata/tusmall-kata \012/so-kata/i-kata/so-kata/ku-kata/so-kata/no-kata/so-kata/me-kata/so-kata/ru-kata/so-kata/ta-kata/so-kata/da-kata/so-kata/gu-kata/so-kata/tusmall-kata \012/zo-kata/i-kata/zo-kata/ku-kata/zo-kata/no-kata/zo-kata/me-kata/zo-kata/ru-kata/zo-kata/ta-kata/zo-kata/da-kata/zo-kata/gu-kata/zo-kata/tusmall-kata \012/ta-kata/i-kata/ta-kata/ku-kata/ta-kata/no-kata/ta-kata/me-kata/ta-kata/ru-kata/ta-kata/ta-kata/ta-kata/da-kata/ta-kata/gu-kata/ta-kata/tusmall-kata \012/da-kata/i-kata/da-kata/ku-kata/da-kata/no-kata/da-kata/me-kata/da-kata/ru-kata/da-kata/ta-kata/da-kata/da-kata/da-kata/gu-kata/da-kata/tusmall-kata \012/tu-kata/i-kata/tu-kata/ku-kata/tu-kata/no-kata/tu-kata/me-kata/tu-kata/ru-kata/tu-kata/ta-kata/tu-kata/da-kata/tu-kata/gu-kata/tu-kata/tusmall-kata \012/du-kata/i-kata/du-kata/ku-kata/du-kata/no-kata/du-kata/me-kata/du-kata/ru-kata/du-kata/ta-kata/du-kata/da-kata/du-kata/gu-kata/du-kata/tusmall-kata \012/no-kata/i-kata/no-kata/ku-kata/no-kata/no-kata/no-kata/me-kata/no-kata/ru-kata/no-kata/ta-kata/no-kata/da-kata/no-kata/gu-kata/no-kata/tusmall-kata \012/hu-kata/i-kata/hu-kata/ku-kata/hu-kata/no-kata/hu-kata/me-kata/hu-kata/ru-kata/hu-kata/ta-kata/hu-kata/da-kata/hu-kata/gu-kata/hu-kata/tusmall-kata \012/bu-kata/i-kata/bu-kata/ku-kata/bu-kata/no-kata/bu-kata/me-kata/bu-kata/ru-kata/bu-kata/ta-kata/bu-kata/da-kata/bu-kata/gu-kata/bu-kata/tusmall-kata \012/pu-kata/i-kata/pu-kata/ku-kata/pu-kata/no-kata/pu-kata/me-kata/pu-kata/ru-kata/pu-kata/ta-kata/pu-kata/da-kata/pu-kata/gu-kata/pu-kata/tusmall-kata \012/me-kata/i-kata/me-kata/ku-kata/me-kata/no-kata/me-kata/me-kata/me-kata/ru-kata/me-kata/ta-kata/me-kata/da-kata/me-kata/gu-kata/me-kata/tusmall-kata \012/wa-kata/i-kata/wa-kata/ku-kata/wa-kata/no-kata/wa-kata/me-kata/wa-kata/ru-kata/wa-kata/ta-kata/wa-kata/da-kata/wa-kata/gu-kata/wa-kata/tusmall-kata \012/wo-kata/i-kata/wo-kata/ku-kata/wo-kata/no-kata/wo-kata/me-kata/wo-kata/ru-kata/wo-kata/ta-kata/wo-kata/da-kata/wo-kata/gu-kata/wo-kata/tusmall-kata \012\012/ke-kata/i-kata/ke-kata/ku-kata/ke-kata/no-kata/ke-kata/me-kata/ke-kata/ru-kata/ke-kata/ta-kata/ke-kata/da-kata/ke-kata/gu-kata/ke-kata/tusmall-kata \012/ge-kata/i-kata/ge-kata/ku-kata/ge-kata/no-kata/ge-kata/me-kata/ge-kata/ru-kata/ge-kata/ta-kata/ge-kata/da-kata/ge-kata/gu-kata/ge-kata/tusmall-kata \012/sa-kata/i-kata/sa-kata/ku-kata/sa-kata/no-kata/sa-kata/me-kata/sa-kata/ru-kata/sa-kata/ta-kata/sa-kata/da-kata/sa-kata/gu-kata/sa-kata/tusmall-kata \012/za-kata/i-kata/za-kata/ku-kata/za-kata/no-kata/za-kata/me-kata/za-kata/ru-kata/za-kata/ta-kata/za-kata/da-kata/za-kata/gu-kata/za-kata/tusmall-kata \012/ti-kata/i-kata/ti-kata/ku-kata/ti-kata/no-kata/ti-kata/me-kata/ti-kata/ru-kata/ti-kata/ta-kata/ti-kata/da-kata/ti-kata/gu-kata/ti-kata/tusmall-kata \012/di-kata/i-kata/di-kata/ku-kata/di-kata/no-kata/di-kata/me-kata/di-kata/ru-kata/di-kata/ta-kata/di-kata/da-kata/di-kata/gu-kata/di-kata/tusmall-kata \012/na-kata/i-kata/na-kata/ku-kata/na-kata/no-kata/na-kata/me-kata/na-kata/ru-kata/na-kata/ta-kata/na-kata/da-kata/na-kata/gu-kata/na-kata/tusmall-kata \012/ri-kata/i-kata/ri-kata/ku-kata/ri-kata/no-kata/ri-kata/me-kata/ri-kata/ru-kata/ri-kata/ta-kata/ri-kata/da-kata/ri-kata/gu-kata/ri-kata/tusmall-kata \012\012/a-kata/i-kata/a-kata/ku-kata/a-kata/no-kata/a-kata/me-kata/a-kata/ru-kata/a-kata/ta-kata/a-kata/da-kata/a-kata/gu-kata/a-kata/tusmall-kata \012/ra-kata/i-kata/ra-kata/ku-kata/ra-kata/no-kata/ra-kata/me-kata/ra-kata/ru-kata/ra-kata/ta-kata/ra-kata/da-kata/ra-kata/gu-kata/ra-kata/tusmall-kata \012/te-kata/i-kata/te-kata/ku-kata/te-kata/no-kata/te-kata/me-kata/te-kata/ru-kata/te-kata/ta-kata/te-kata/da-kata/te-kata/gu-kata/te-kata/tusmall-kata \012/de-kata/i-kata/de-kata/ku-kata/de-kata/no-kata/de-kata/me-kata/de-kata/ru-kata/de-kata/ta-kata/de-kata/da-kata/de-kata/gu-kata/de-kata/tusmall-kata \012\012/a-kata/ha-kata/a-kata/ba-kata/a-kata/pa-kata \012\012/i-kata/esmall-kata/te-kata/ismall-kata/u-kata/ismall-kata \012/hu-kata/asmall-kata/hu-kata/ismall-kata/hu-kata/esmall-kata/hu-kata/osmall-kata \012/ti-kata/yasmall-kata/ti-kata/yusmall-kata/ti-kata/yosmall-kata/ti-kata/esmall-kata \012/si-kata/yasmall-kata/si-kata/yusmall-kata/si-kata/yosmall-kata/zi-kata/yasmall-kata/zi-kata/yusmall-kata/zi-kata/yosmall-kata \012/di-kata/yasmall-kata/di-kata/yusmall-kata/di-kata/yosmall-kata \012/de-kata/ismall-kata \012\012/ki-kata/yasmall-kata/ki-kata/yusmall-kata/ki-kata/yosmall-kata/gi-kata/yasmall-kata/gi-kata/yusmall-kata/gi-kata/yosmall-kata \012/ni-kata/yasmall-kata/ni-kata/yusmall-kata/ni-kata/yosmall-kata \012/hi-kata/yasmall-kata/hi-kata/yusmall-kata/hi-kata/yosmall-kata/bi-kata/yasmall-kata/bi-kata/yusmall-kata/bi-kata/yosmall-kata/pi-kata/yasmall-kata/pi-kata/yusmall-kata/pi-kata/yosmall-kata \012/mi-kata/yasmall-kata/mi-kata/yusmall-kata/mi-kata/yosmall-kata/ri-kata/yasmall-kata/ri-kata/yusmall-kata/ri-kata/yosmall-kata \012/ku-kata/wasmall-kata",
 "Versal//Kleinbuchstaben\012VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzVV\012TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzT\012AVANTAWAATA\012Typography\012WaWbWcWdWeWfWgWhWiWj\012WkWlWmWnWoWpWqWrWs\012WtWuWvWwWxWyWzW\012AaAbAcAdAeAfAgAhAiAjAkAl\012AmAnAoApAqArAsAtAuAvAw\012AxAyAz\012Aya\012YaYbYcYdYeYfYgYhYiYjYkYl\012YmYnYoYpYqYrYsYtYu\012YvYwYxYyYz\012FaFbFcFdFeFfFgFhFiFjFkFl\012FmFnFoFpFqFrFsFtFu\012FvFwFxFyFz\012PaPbPcPdPePfPgPhPiPjPkPl\012PmPnPoPpPqPrPsPtPu\012PvPwPxPyPz\012vavbvcvdvevfvgvhvivjvkvlv\012mvnvovpvqvrvsvtvu\012vvvwvxvyvzv\012abcdefghijklmnopqrstuvwxyz\012abcdefghijklmnopqrstuvwxyz\012abcdefghijklmnopqrstuvwxyz",
-"the quick brown fox jumps over the lazy dog"
+"the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog\012\012Jgy",
+"¡¿µ"
 );
 copyright = "Copyright © 2019 by Takashi Funayama. All rights reserved.";
 customParameters = (
@@ -376,7 +377,7 @@ value = 500;
 },
 {
 name = winDescent;
-value = 312;
+value = 288;
 },
 {
 name = winAscent;
@@ -386,7 +387,7 @@ value = 1063;
 descender = -120;
 guideLines = (
 {
-position = "{395, -300}";
+position = "{395, -288}";
 },
 {
 angle = 90;
@@ -475,7 +476,7 @@ value = 1063;
 descender = -120;
 guideLines = (
 {
-position = "{395, -300}";
+position = "{395, -288}";
 },
 {
 angle = 90;
@@ -2159,9 +2160,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"212 -291 OFFCURVE",
-"340 -127 OFFCURVE",
-"340 94 CURVE SMOOTH",
+"212 -270 OFFCURVE",
+"340 -106 OFFCURVE",
+"340 115 CURVE SMOOTH",
 "340 789 LINE SMOOTH",
 "340 800 OFFCURVE",
 "331 809 OFFCURVE",
@@ -2169,16 +2170,16 @@ nodes = (
 "309 809 OFFCURVE",
 "300 800 OFFCURVE",
 "300 789 CURVE SMOOTH",
-"300 94 LINE SMOOTH",
-"300 -107 OFFCURVE",
-"187 -251 OFFCURVE",
-"18 -268 CURVE SMOOTH",
-"8 -269 OFFCURVE",
-"0 -277 OFFCURVE",
-"0 -288 CURVE SMOOTH",
-"0 -300 OFFCURVE",
-"11 -309 OFFCURVE",
-"22 -308 CURVE SMOOTH"
+"300 115 LINE SMOOTH",
+"300 -86 OFFCURVE",
+"187 -230 OFFCURVE",
+"18 -247 CURVE SMOOTH",
+"8 -248 OFFCURVE",
+"0 -256 OFFCURVE",
+"0 -267 CURVE SMOOTH",
+"0 -279 OFFCURVE",
+"11 -288 OFFCURVE",
+"22 -287 CURVE SMOOTH"
 );
 }
 );
@@ -2190,9 +2191,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"272 -308 OFFCURVE",
-"415 -138 OFFCURVE",
-"415 104 CURVE SMOOTH",
+"272 -270 OFFCURVE",
+"415 -100 OFFCURVE",
+"415 142 CURVE SMOOTH",
 "415 769 LINE SMOOTH",
 "415 805 OFFCURVE",
 "386 834 OFFCURVE",
@@ -2200,16 +2201,16 @@ nodes = (
 "314 834 OFFCURVE",
 "285 805 OFFCURVE",
 "285 769 CURVE SMOOTH",
-"285 104 LINE SMOOTH",
-"285 -66 OFFCURVE",
-"196 -175 OFFCURVE",
-"43 -193 CURVE SMOOTH",
-"10 -197 OFFCURVE",
-"-15 -224 OFFCURVE",
-"-15 -258 CURVE SMOOTH",
-"-15 -296 OFFCURVE",
-"19 -326 OFFCURVE",
-"56 -323 CURVE SMOOTH"
+"285 142 LINE SMOOTH",
+"285 -28 OFFCURVE",
+"196 -137 OFFCURVE",
+"43 -155 CURVE SMOOTH",
+"10 -159 OFFCURVE",
+"-15 -186 OFFCURVE",
+"-15 -220 CURVE SMOOTH",
+"-15 -258 OFFCURVE",
+"19 -288 OFFCURVE",
+"56 -285 CURVE SMOOTH"
 );
 }
 );
@@ -6792,15 +6793,20 @@ unicode = 0066;
 glyphname = g;
 layers = (
 {
+guideLines = (
+{
+position = "{-503, -288}";
+}
+);
 layerId = "F0262224-B9C7-46EB-9294-168F9DBDA589";
 paths = (
 {
 closed = 1;
 nodes = (
-"389 -300 OFFCURVE",
-"487 -239 OFFCURVE",
-"487 -136 CURVE SMOOTH",
-"487 -46 OFFCURVE",
+"389 -288 OFFCURVE",
+"487 -227 OFFCURVE",
+"487 -124 CURVE SMOOTH",
+"487 -34 OFFCURVE",
 "431 -10 OFFCURVE",
 "285 11 CURVE SMOOTH",
 "227 19 OFFCURVE",
@@ -6817,26 +6823,26 @@ nodes = (
 "196 -15 OFFCURVE",
 "285 -29 CURVE SMOOTH",
 "399 -47 OFFCURVE",
-"447 -74 OFFCURVE",
-"447 -136 CURVE SMOOTH",
-"447 -214 OFFCURVE",
-"364 -260 OFFCURVE",
-"262 -260 CURVE SMOOTH",
-"178 -260 OFFCURVE",
-"109 -217 OFFCURVE",
-"77 -159 CURVE SMOOTH",
-"74 -154 OFFCURVE",
-"67 -149 OFFCURVE",
-"60 -149 CURVE SMOOTH",
-"49 -149 OFFCURVE",
-"40 -158 OFFCURVE",
-"40 -169 CURVE SMOOTH",
-"40 -173 OFFCURVE",
-"41 -176 OFFCURVE",
-"43 -179 CURVE SMOOTH",
-"86 -255 OFFCURVE",
-"171 -300 OFFCURVE",
-"262 -300 CURVE SMOOTH"
+"447 -62 OFFCURVE",
+"447 -124 CURVE SMOOTH",
+"447 -202 OFFCURVE",
+"364 -248 OFFCURVE",
+"262 -248 CURVE SMOOTH",
+"178 -248 OFFCURVE",
+"109 -205 OFFCURVE",
+"77 -147 CURVE SMOOTH",
+"74 -142 OFFCURVE",
+"67 -137 OFFCURVE",
+"60 -137 CURVE SMOOTH",
+"49 -137 OFFCURVE",
+"40 -146 OFFCURVE",
+"40 -157 CURVE SMOOTH",
+"40 -161 OFFCURVE",
+"41 -164 OFFCURVE",
+"43 -167 CURVE SMOOTH",
+"86 -243 OFFCURVE",
+"171 -288 OFFCURVE",
+"262 -288 CURVE SMOOTH"
 );
 },
 {
@@ -6900,46 +6906,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"449 -325 OFFCURVE",
-"557 -241 OFFCURVE",
-"557 -131 CURVE SMOOTH",
-"557 -25 OFFCURVE",
+"443 -288 OFFCURVE",
+"554 -213 OFFCURVE",
+"554 -109 CURVE SMOOTH",
+"554 -23 OFFCURVE",
 "489 24 OFFCURVE",
 "315 44 CURVE SMOOTH",
 "285 47 OFFCURVE",
-"269 58 OFFCURVE",
-"269 70 CURVE SMOOTH",
-"269 80 OFFCURVE",
+"268 58 OFFCURVE",
+"268 70 CURVE SMOOTH",
+"268 80 OFFCURVE",
 "278 88 OFFCURVE",
 "292 88 CURVE",
-"249 160 LINE",
-"230 169 OFFCURVE",
-"135 126 OFFCURVE",
-"135 52 CURVE SMOOTH",
-"135 -15 OFFCURVE",
-"197 -56 OFFCURVE",
-"316 -69 CURVE SMOOTH",
-"397 -78 OFFCURVE",
-"427 -97 OFFCURVE",
-"427 -131 CURVE SMOOTH",
-"427 -171 OFFCURVE",
-"385 -195 OFFCURVE",
-"310 -195 CURVE SMOOTH",
-"217 -195 OFFCURVE",
-"177 -176 OFFCURVE",
-"141 -116 CURVE SMOOTH",
-"129 -97 OFFCURVE",
-"107 -84 OFFCURVE",
-"85 -84 CURVE SMOOTH",
-"49 -84 OFFCURVE",
-"20 -113 OFFCURVE",
-"20 -149 CURVE SMOOTH",
-"20 -161 OFFCURVE",
-"24 -174 OFFCURVE",
-"30 -184 CURVE SMOOTH",
-"92 -283 OFFCURVE",
-"177 -325 OFFCURVE",
-"310 -325 CURVE SMOOTH"
+"268 128 LINE",
+"249 137 OFFCURVE",
+"134 126 OFFCURVE",
+"134 52 CURVE SMOOTH",
+"134 -15 OFFCURVE",
+"181 -41 OFFCURVE",
+"316 -63 CURVE SMOOTH",
+"397 -76 OFFCURVE",
+"437 -84 OFFCURVE",
+"437 -115 CURVE SMOOTH",
+"437 -148 OFFCURVE",
+"377 -164 OFFCURVE",
+"310 -164 CURVE SMOOTH",
+"249 -164 OFFCURVE",
+"188 -137 OFFCURVE",
+"150 -109 CURVE SMOOTH",
+"132 -95 OFFCURVE",
+"116 -77 OFFCURVE",
+"94 -77 CURVE SMOOTH",
+"58 -77 OFFCURVE",
+"29 -100 OFFCURVE",
+"29 -136 CURVE SMOOTH",
+"29 -148 OFFCURVE",
+"33 -162 OFFCURVE",
+"39 -171 CURVE SMOOTH",
+"94 -256 OFFCURVE",
+"194 -288 OFFCURVE",
+"304 -288 CURVE SMOOTH"
 );
 },
 {
@@ -6962,18 +6968,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"227 218 OFFCURVE",
+"227 213 OFFCURVE",
 "179 257 OFFCURVE",
 "179 310 CURVE SMOOTH",
 "179 364 OFFCURVE",
-"227 405 OFFCURVE",
-"292 405 CURVE SMOOTH",
-"357 405 OFFCURVE",
+"227 410 OFFCURVE",
+"292 410 CURVE SMOOTH",
+"357 410 OFFCURVE",
 "404 365 OFFCURVE",
 "404 310 CURVE SMOOTH",
 "404 257 OFFCURVE",
-"357 218 OFFCURVE",
-"292 218 CURVE SMOOTH"
+"357 213 OFFCURVE",
+"292 213 CURVE SMOOTH"
 );
 },
 {
@@ -10157,9 +10163,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"150 -283 OFFCURVE",
-"191 -227 OFFCURVE",
-"243 -114 CURVE SMOOTH",
+"158 -266 OFFCURVE",
+"199 -210 OFFCURVE",
+"251 -97 CURVE SMOOTH",
 "517 478 LINE SMOOTH",
 "523 491 OFFCURVE",
 "512 507 OFFCURVE",
@@ -10167,16 +10173,16 @@ nodes = (
 "489 507 OFFCURVE",
 "482 501 OFFCURVE",
 "479 494 CURVE SMOOTH",
-"207 -98 LINE SMOOTH",
-"160 -201 OFFCURVE",
-"126 -248 OFFCURVE",
-"66 -263 CURVE SMOOTH",
-"58 -265 OFFCURVE",
-"50 -273 OFFCURVE",
-"50 -282 CURVE SMOOTH",
-"50 -296 OFFCURVE",
-"63 -305 OFFCURVE",
-"75 -302 CURVE SMOOTH"
+"215 -81 LINE SMOOTH",
+"168 -184 OFFCURVE",
+"134 -231 OFFCURVE",
+"74 -246 CURVE SMOOTH",
+"66 -248 OFFCURVE",
+"58 -256 OFFCURVE",
+"58 -265 CURVE SMOOTH",
+"58 -279 OFFCURVE",
+"71 -288 OFFCURVE",
+"83 -285 CURVE SMOOTH"
 );
 },
 {
@@ -10202,44 +10208,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"191 -307 OFFCURVE",
-"266 -215 OFFCURVE",
-"342 -51 CURVE SMOOTH",
-"569 440 LINE SMOOTH",
-"588 483 OFFCURVE",
-"555 532 OFFCURVE",
-"508 532 CURVE SMOOTH",
-"482 532 OFFCURVE",
-"459 517 OFFCURVE",
-"447 492 CURVE SMOOTH",
-"220 -14 LINE SMOOTH",
-"170 -124 OFFCURVE",
-"122 -190 OFFCURVE",
-"85 -199 CURVE SMOOTH",
-"56 -207 OFFCURVE",
-"35 -233 OFFCURVE",
-"35 -262 CURVE SMOOTH",
-"35 -305 OFFCURVE",
-"75 -336 OFFCURVE",
-"116 -326 CURVE SMOOTH"
+"213 -269 OFFCURVE",
+"277 -184 OFFCURVE",
+"353 -20 CURVE SMOOTH",
+"566 440 LINE SMOOTH",
+"585 482 OFFCURVE",
+"552 532 OFFCURVE",
+"505 532 CURVE SMOOTH",
+"479 532 OFFCURVE",
+"455 517 OFFCURVE",
+"444 492 CURVE SMOOTH",
+"231 17 LINE SMOOTH",
+"182 -93 OFFCURVE",
+"144 -152 OFFCURVE",
+"107 -161 CURVE SMOOTH",
+"78 -169 OFFCURVE",
+"57 -195 OFFCURVE",
+"57 -224 CURVE SMOOTH",
+"57 -267 OFFCURVE",
+"97 -298 OFFCURVE",
+"138 -288 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"340 33 LINE",
-"164 487 LINE SMOOTH",
-"155 512 OFFCURVE",
-"130 529 OFFCURVE",
-"103 529 CURVE SMOOTH",
-"58 529 OFFCURVE",
-"27 483 OFFCURVE",
-"43 441 CURVE SMOOTH",
-"256 -92 LINE"
+"337 33 LINE",
+"161 487 LINE SMOOTH",
+"151 512 OFFCURVE",
+"127 529 OFFCURVE",
+"100 529 CURVE SMOOTH",
+"55 529 OFFCURVE",
+"23 483 OFFCURVE",
+"40 441 CURVE SMOOTH",
+"253 -92 LINE"
 );
 }
 );
-width = 609;
+width = 606;
 }
 );
 leftKerningGroup = v;
@@ -10273,7 +10279,7 @@ name = acute;
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
-width = 609;
+width = 606;
 }
 );
 leftMetricsKey = "=y";
@@ -10305,7 +10311,7 @@ name = dieresis;
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
-width = 609;
+width = 606;
 }
 );
 leftMetricsKey = "=y";
@@ -44134,7 +44140,7 @@ layers = (
 components = (
 {
 name = exclam;
-transform = "{-1, 0, 0, -1, 282, 500}";
+transform = "{-1, 0, 0, -1, 282, 523}";
 }
 );
 layerId = "F0262224-B9C7-46EB-9294-168F9DBDA589";
@@ -44144,7 +44150,7 @@ width = 333;
 components = (
 {
 name = exclam;
-transform = "{-1, 0, 0, -1, 341, 500}";
+transform = "{-1, 0, 0, -1, 341, 534}";
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
@@ -44258,7 +44264,7 @@ layers = (
 components = (
 {
 name = question;
-transform = "{-1, 0, 0, -1, 403, 500}";
+transform = "{-1, 0, 0, -1, 403, 516}";
 }
 );
 layerId = "F0262224-B9C7-46EB-9294-168F9DBDA589";
@@ -44268,7 +44274,7 @@ width = 400;
 components = (
 {
 name = question;
-transform = "{-1, 0, 0, -1, 451, 500}";
+transform = "{-1, 0, 0, -1, 451, 531}";
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
@@ -50134,10 +50140,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"90 -300 OFFCURVE",
-"100 -292 OFFCURVE",
-"100 -276 CURVE SMOOTH",
-"99 -150 OFFCURVE",
+"90 -288 OFFCURVE",
+"100 -280 OFFCURVE",
+"100 -264 CURVE SMOOTH",
+"99 -138 OFFCURVE",
 "103 351 OFFCURVE",
 "103 476 CURVE SMOOTH",
 "103 488 OFFCURVE",
@@ -50147,11 +50153,11 @@ nodes = (
 "63 492 OFFCURVE",
 "63 476 CURVE SMOOTH",
 "63 351 OFFCURVE",
-"59 -151 OFFCURVE",
-"60 -276 CURVE SMOOTH",
-"60 -288 OFFCURVE",
-"68 -300 OFFCURVE",
-"80 -300 CURVE SMOOTH"
+"59 -139 OFFCURVE",
+"60 -264 CURVE SMOOTH",
+"60 -276 OFFCURVE",
+"68 -288 OFFCURVE",
+"80 -288 CURVE SMOOTH"
 );
 }
 );
@@ -50194,7 +50200,7 @@ nodes = (
 "476 515 OFFCURVE",
 "439 515 CURVE SMOOTH",
 "403 515 OFFCURVE",
-"374 487 OFFCURVE",
+"375 487 OFFCURVE",
 "374 451 CURVE SMOOTH",
 "366 -12 LINE",
 "495 -15 LINE"
@@ -50203,10 +50209,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"154 -314 OFFCURVE",
-"178 -290 OFFCURVE",
-"178 -249 CURVE SMOOTH",
-"178 -99 OFFCURVE",
+"154 -288 OFFCURVE",
+"178 -264 OFFCURVE",
+"178 -223 CURVE SMOOTH",
+"178 -73 OFFCURVE",
 "181 372 OFFCURVE",
 "182 450 CURVE SMOOTH",
 "183 490 OFFCURVE",
@@ -50216,11 +50222,11 @@ nodes = (
 "53 491 OFFCURVE",
 "53 450 CURVE SMOOTH",
 "52 373 OFFCURVE",
-"50 -99 OFFCURVE",
-"50 -249 CURVE SMOOTH",
-"50 -290 OFFCURVE",
-"74 -314 OFFCURVE",
-"114 -314 CURVE SMOOTH"
+"50 -73 OFFCURVE",
+"50 -223 CURVE SMOOTH",
+"50 -264 OFFCURVE",
+"74 -288 OFFCURVE",
+"114 -288 CURVE SMOOTH"
 );
 }
 );

@@ -7,7 +7,8 @@ DisplayStrings = (
 "Versal//Kleinbuchstaben\012VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzVV\012TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzT\012AVANTAWAATA\012Typography\012WaWbWcWdWeWfWgWhWiWj\012WkWlWmWnWoWpWqWrWs\012WtWuWvWwWxWyWzW\012AaAbAcAdAeAfAgAhAiAjAkAl\012AmAnAoApAqArAsAtAuAvAw\012AxAyAz\012Aya\012YaYbYcYdYeYfYgYhYiYjYkYl\012YmYnYoYpYqYrYsYtYu\012YvYwYxYyYz\012FaFbFcFdFeFfFgFhFiFjFkFl\012FmFnFoFpFqFrFsFtFu\012FvFwFxFyFz\012PaPbPcPdPePfPgPhPiPjPkPl\012PmPnPoPpPqPrPsPtPu\012PvPwPxPyPz\012vavbvcvdvevfvgvhvivjvkvlv\012mvnvovpvqvrvsvtvu\012vvvwvxvyvzv\012abcdefghijklmnopqrstuvwxyz\012abcdefghijklmnopqrstuvwxyz\012abcdefghijklmnopqrstuvwxyz",
 "the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog\012\012Jgy",
 "000102030405060708090101112131415161718191202122232425262728292303132333435363738393404142434445464748494505152535455565758595606162636465666768696707172737475767778797808182838485868788898909192939495969798999",
-"AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕ/OE PÞQRSTUÚÛÜÙVW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝZ/W.ss01 aáâäàåãæbcçdðeéêëèfghi/idotless íîïìjklmnñoóôöòøõ/oe pþqrsßtuúûüùvw/wacute/wcircumflex/wdieresis/wgrave xyý/ydieresis z/w.ss01/f_i/f_l ªº/a-hira/asmall-hira/i-hira/ismall-hira/u-hira/usmall-hira/e-hira/esmall-hira/o-hira/osmall-hira/ka-hira/ga-hira/ki-hira/gi-hira/ku-hira/gu-hira/ke-hira/ge-hira/ko-hira/go-hira/sa-hira/za-hira/si-hira/zi-hira/su-hira/zu-hira/se-hira/ze-hira/so-hira/zo-hira/ta-hira/da-hira/ti-hira/di-hira/tu-hira/tusmall-hira/du-hira/te-hira/de-hira/to-hira/do-hira/na-hira/ni-hira/nu-hira/ne-hira/no-hira/ha-hira/ba-hira/pa-hira/hi-hira/bi-hira/pi-hira/hu-hira/bu-hira/pu-hira/he-hira/be-hira/pe-hira/ho-hira/bo-hira/po-hira/ma-hira/mi-hira/mu-hira/me-hira/mo-hira/ya-hira/yasmall-hira/yu-hira/yusmall-hira/yo-hira/yosmall-hira/ra-hira/ri-hira/ru-hira/re-hira/ro-hira/wa-hira/wasmall-hira/wi-hira/we-hira/wo-hira/n-hira/vu-hira/a-kata/asmall-kata/i-kata/ismall-kata/u-kata/usmall-kata/e-kata/esmall-kata/o-kata/osmall-kata/ka-kata/kasmall-kata/ga-kata/ki-kata/gi-kata/ku-kata/gu-kata/ke-kata/kesmall-kata/ge-kata/ko-kata/go-kata/sa-kata/za-kata/si-kata/zi-kata/su-kata/zu-kata/se-kata/ze-kata/so-kata/zo-kata/ta-kata/da-kata/ti-kata/di-kata/tu-kata/tusmall-kata/du-kata/te-kata/de-kata/to-kata/do-kata/na-kata/ni-kata/nu-kata/ne-kata/no-kata/ha-kata/ba-kata/pa-kata/hi-kata/bi-kata/pi-kata/hu-kata/bu-kata/pu-kata/he-kata/be-kata/pe-kata/ho-kata/bo-kata/po-kata/ma-kata/mi-kata/mu-kata/me-kata/mo-kata/ya-kata/yasmall-kata/yu-kata/yusmall-kata/yo-kata/yosmall-kata/ra-kata/ri-kata/ru-kata/re-kata/ro-kata/wa-kata/wasmall-kata/va-kata/wi-kata/vi-kata/we-kata/ve-kata/wo-kata/vo-kata/n-kata/vu-kata/a-hira.ss01/ka-hira.ss01/ga-hira.ss01/si-hira.ss01/zi-hira.ss01/to-hira.ss01/do-hira.ss01/ne-hira.ss01/ha-hira.ss01/ba-hira.ss01/pa-hira.ss01/yu-hira.ss01/yo-hira.ss01/wo-hira.ss01/asmall-hira.vert/ismall-hira.vert/usmall-hira.vert/esmall-hira.vert/osmall-hira.vert/tusmall-hira.vert/yasmall-hira.vert/yusmall-hira.vert/yosmall-hira.vert/wasmall-hira.vert/asmall-kata.vert/ismall-kata.vert/usmall-kata.vert/esmall-kata.vert/osmall-kata.vert/kasmall-kata.vert/kesmall-kata.vert/tusmall-kata.vert/yasmall-kata.vert/yusmall-kata.vert/yosmall-kata.vert/zero.full/one.full/two.full/three.full/four.full/five.full/six.full/seven.full/eight.full/nine.full 0123456789/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/zerosuperior ¹²³/foursuperior/fraction ½¼¾.,:;/ellipsis !¡?¿·/bullet *#///backslash/exclam.full/question.full (){}[]/anglebracketleft/anglebracketright/blacklenticularbracketleft/blacklenticularbracketright/cornerbracketleft/cornerbracketright/dblanglebracketleft/dblanglebracketright/tortoiseshellbracketleft/tortoiseshellbracketright/whitecornerbracketleft/whitecornerbracketright/anglebracketleft.vert/anglebracketright.vert/blacklenticularbracketleft.vert/blacklenticularbracketright.vert/bracketleft.full/bracketleft.full.vert/bracketright.full/bracketright.full.vert/cornerbracketleft.vert/cornerbracketright.vert/dblanglebracketleft.vert/dblanglebracketright.vert/parenleft.full/parenright.full/tortoiseshellbracketleft.vert/tortoiseshellbracketright.vert/parenleft.full.vert/parenright.full.vert/whitecornerbracketleft.vert/whitecornerbracketright.vert -­/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/dot-kata/comma-han/comma-han.vert/period-han/period-han.vert/space-han/space/nbspace/space.full \015/.notdef ¢¤$/euro £¥/divisionslash +/minus ×÷=></greaterequal/lessequal ±~¬^µ%/perthousand/asciitilde.full/asciitilde.full.vert/upArrow/downArrow @&¶§©®/trademark °/minute/second |¦/centigrade/replacementCharacter/apostrophemod/commaturnedmod/dieresiscomb/gravecomb/acutecomb/circumflexcomb/ringcomb/tildecomb/macroncomb/cedillacomb ¨`´/circumflex/ring/tilde ¯¸/iteration-hira/voicediteration-hira/prolonged-kana/iteration-kata/voicediteration-kata/prolonged-kana.vert/voicedcomb-kana/semivoicedcomb-kana"
+"AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕ/OE PÞQRSTUÚÛÜÙVW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝZ/W.ss01 aáâäàåãæbcçdðeéêëèfghi/idotless íîïìjklmnñoóôöòøõ/oe pþqrsßtuúûüùvw/wacute/wcircumflex/wdieresis/wgrave xyý/ydieresis z/w.ss01/f_i/f_l ªº/a-hira/asmall-hira/i-hira/ismall-hira/u-hira/usmall-hira/e-hira/esmall-hira/o-hira/osmall-hira/ka-hira/ga-hira/ki-hira/gi-hira/ku-hira/gu-hira/ke-hira/ge-hira/ko-hira/go-hira/sa-hira/za-hira/si-hira/zi-hira/su-hira/zu-hira/se-hira/ze-hira/so-hira/zo-hira/ta-hira/da-hira/ti-hira/di-hira/tu-hira/tusmall-hira/du-hira/te-hira/de-hira/to-hira/do-hira/na-hira/ni-hira/nu-hira/ne-hira/no-hira/ha-hira/ba-hira/pa-hira/hi-hira/bi-hira/pi-hira/hu-hira/bu-hira/pu-hira/he-hira/be-hira/pe-hira/ho-hira/bo-hira/po-hira/ma-hira/mi-hira/mu-hira/me-hira/mo-hira/ya-hira/yasmall-hira/yu-hira/yusmall-hira/yo-hira/yosmall-hira/ra-hira/ri-hira/ru-hira/re-hira/ro-hira/wa-hira/wasmall-hira/wi-hira/we-hira/wo-hira/n-hira/vu-hira/a-kata/asmall-kata/i-kata/ismall-kata/u-kata/usmall-kata/e-kata/esmall-kata/o-kata/osmall-kata/ka-kata/kasmall-kata/ga-kata/ki-kata/gi-kata/ku-kata/gu-kata/ke-kata/kesmall-kata/ge-kata/ko-kata/go-kata/sa-kata/za-kata/si-kata/zi-kata/su-kata/zu-kata/se-kata/ze-kata/so-kata/zo-kata/ta-kata/da-kata/ti-kata/di-kata/tu-kata/tusmall-kata/du-kata/te-kata/de-kata/to-kata/do-kata/na-kata/ni-kata/nu-kata/ne-kata/no-kata/ha-kata/ba-kata/pa-kata/hi-kata/bi-kata/pi-kata/hu-kata/bu-kata/pu-kata/he-kata/be-kata/pe-kata/ho-kata/bo-kata/po-kata/ma-kata/mi-kata/mu-kata/me-kata/mo-kata/ya-kata/yasmall-kata/yu-kata/yusmall-kata/yo-kata/yosmall-kata/ra-kata/ri-kata/ru-kata/re-kata/ro-kata/wa-kata/wasmall-kata/va-kata/wi-kata/vi-kata/we-kata/ve-kata/wo-kata/vo-kata/n-kata/vu-kata/a-hira.ss01/ka-hira.ss01/ga-hira.ss01/si-hira.ss01/zi-hira.ss01/to-hira.ss01/do-hira.ss01/ne-hira.ss01/ha-hira.ss01/ba-hira.ss01/pa-hira.ss01/yu-hira.ss01/yo-hira.ss01/wo-hira.ss01/asmall-hira.vert/ismall-hira.vert/usmall-hira.vert/esmall-hira.vert/osmall-hira.vert/tusmall-hira.vert/yasmall-hira.vert/yusmall-hira.vert/yosmall-hira.vert/wasmall-hira.vert/asmall-kata.vert/ismall-kata.vert/usmall-kata.vert/esmall-kata.vert/osmall-kata.vert/kasmall-kata.vert/kesmall-kata.vert/tusmall-kata.vert/yasmall-kata.vert/yusmall-kata.vert/yosmall-kata.vert/zero.full/one.full/two.full/three.full/four.full/five.full/six.full/seven.full/eight.full/nine.full 0123456789/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/zerosuperior ¹²³/foursuperior/fraction ½¼¾.,:;/ellipsis !¡?¿·/bullet *#///backslash/exclam.full/question.full (){}[]/anglebracketleft/anglebracketright/blacklenticularbracketleft/blacklenticularbracketright/cornerbracketleft/cornerbracketright/dblanglebracketleft/dblanglebracketright/tortoiseshellbracketleft/tortoiseshellbracketright/whitecornerbracketleft/whitecornerbracketright/anglebracketleft.vert/anglebracketright.vert/blacklenticularbracketleft.vert/blacklenticularbracketright.vert/bracketleft.full/bracketleft.full.vert/bracketright.full/bracketright.full.vert/cornerbracketleft.vert/cornerbracketright.vert/dblanglebracketleft.vert/dblanglebracketright.vert/parenleft.full/parenright.full/tortoiseshellbracketleft.vert/tortoiseshellbracketright.vert/parenleft.full.vert/parenright.full.vert/whitecornerbracketleft.vert/whitecornerbracketright.vert -­/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/dot-kata/comma-han/comma-han.vert/period-han/period-han.vert/space-han/space/nbspace/space.full \015/.notdef ¢¤$/euro £¥/divisionslash +/minus ×÷=></greaterequal/lessequal ±~¬^µ%/perthousand/asciitilde.full/asciitilde.full.vert/upArrow/downArrow @&¶§©®/trademark °/minute/second |¦/centigrade/replacementCharacter/apostrophemod/commaturnedmod/dieresiscomb/gravecomb/acutecomb/circumflexcomb/ringcomb/tildecomb/macroncomb/cedillacomb ¨`´/circumflex/ring/tilde ¯¸/iteration-hira/voicediteration-hira/prolonged-kana/iteration-kata/voicediteration-kata/prolonged-kana.vert/voicedcomb-kana/semivoicedcomb-kana",
+"AJQgjpþqý/ydieresis ¡¿µ§"
 );
 copyright = "Copyright © 2019 by Takashi Funayama. All rights reserved.";
 customParameters = (
@@ -470,7 +471,7 @@ value = 500;
 },
 {
 name = winDescent;
-value = 312;
+value = 288;
 },
 {
 name = winAscent;
@@ -7603,28 +7604,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"71 -309 OFFCURVE",
-"93 -304 OFFCURVE",
-"106 -295 CURVE SMOOTH",
-"199 -230 OFFCURVE",
-"222 -103 OFFCURVE",
-"222 49 CURVE SMOOTH",
-"222 130 OFFCURVE",
+"71 -281 OFFCURVE",
+"93 -276 OFFCURVE",
+"106 -267 CURVE SMOOTH",
+"199 -202 OFFCURVE",
+"222 -75 OFFCURVE",
+"222 77 CURVE SMOOTH",
+"222 158 OFFCURVE",
 "222 447 OFFCURVE",
 "224 509 CURVE",
 "92 509 LINE",
 "92 430 OFFCURVE",
-"92 124 OFFCURVE",
-"92 39 CURVE SMOOTH",
-"92 -83 OFFCURVE",
-"71 -176 OFFCURVE",
-"24 -201 CURVE SMOOTH",
-"9 -209 OFFCURVE",
-"-2 -230 OFFCURVE",
-"-2 -251 CURVE SMOOTH",
-"-2 -284 OFFCURVE",
-"22 -309 OFFCURVE",
-"57 -309 CURVE SMOOTH"
+"92 152 OFFCURVE",
+"92 67 CURVE SMOOTH",
+"92 -55 OFFCURVE",
+"71 -148 OFFCURVE",
+"24 -173 CURVE SMOOTH",
+"9 -181 OFFCURVE",
+"-2 -202 OFFCURVE",
+"-2 -223 CURVE SMOOTH",
+"-2 -256 OFFCURVE",
+"22 -281 OFFCURVE",
+"57 -281 CURVE SMOOTH"
 );
 },
 {
@@ -55169,91 +55170,91 @@ paths = (
 {
 closed = 1;
 nodes = (
-"441 -17 LINE",
-"563 21 OFFCURVE",
-"624 106 OFFCURVE",
-"624 237 CURVE SMOOTH",
-"624 362 OFFCURVE",
-"543 456 OFFCURVE",
-"373 502 CURVE SMOOTH",
-"231 540 OFFCURVE",
-"195 569 OFFCURVE",
-"195 603 CURVE SMOOTH",
-"195 665 OFFCURVE",
-"252 711 OFFCURVE",
-"329 711 CURVE SMOOTH",
-"400 711 OFFCURVE",
-"446 689 OFFCURVE",
-"476 641 CURVE SMOOTH",
-"489 620 OFFCURVE",
-"512 607 OFFCURVE",
-"534 607 CURVE SMOOTH",
-"567 607 OFFCURVE",
-"590 636 OFFCURVE",
-"590 666 CURVE SMOOTH",
-"590 679 OFFCURVE",
-"586 692 OFFCURVE",
-"578 703 CURVE SMOOTH",
-"515 790 OFFCURVE",
-"433 832 OFFCURVE",
-"329 832 CURVE SMOOTH",
-"187 832 OFFCURVE",
-"75 731 OFFCURVE",
-"75 603 CURVE SMOOTH",
-"75 496 OFFCURVE",
-"137 446 OFFCURVE",
-"336 387 CURVE SMOOTH",
-"440 356 OFFCURVE",
-"504 298 OFFCURVE",
-"504 237 CURVE SMOOTH",
-"504 145 OFFCURVE",
-"437 73 OFFCURVE",
-"350 73 CURVE"
+"431 -11 LINE",
+"550 26 OFFCURVE",
+"609 109 OFFCURVE",
+"609 237 CURVE SMOOTH",
+"609 358 OFFCURVE",
+"530 451 OFFCURVE",
+"365 495 CURVE SMOOTH",
+"227 532 OFFCURVE",
+"191 560 OFFCURVE",
+"191 594 CURVE SMOOTH",
+"191 654 OFFCURVE",
+"247 698 OFFCURVE",
+"322 698 CURVE SMOOTH",
+"391 698 OFFCURVE",
+"436 678 OFFCURVE",
+"465 630 CURVE SMOOTH",
+"478 609 OFFCURVE",
+"501 598 OFFCURVE",
+"521 598 CURVE SMOOTH",
+"554 598 OFFCURVE",
+"577 625 OFFCURVE",
+"577 655 CURVE SMOOTH",
+"577 668 OFFCURVE",
+"573 681 OFFCURVE",
+"565 691 CURVE SMOOTH",
+"504 775 OFFCURVE",
+"424 817 OFFCURVE",
+"322 817 CURVE SMOOTH",
+"183 817 OFFCURVE",
+"75 718 OFFCURVE",
+"75 594 CURVE SMOOTH",
+"75 489 OFFCURVE",
+"135 440 OFFCURVE",
+"329 383 CURVE SMOOTH",
+"430 353 OFFCURVE",
+"493 296 OFFCURVE",
+"493 237 CURVE SMOOTH",
+"493 147 OFFCURVE",
+"428 77 OFFCURVE",
+"343 77 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"213 537 LINE",
-"100 496 OFFCURVE",
-"45 417 OFFCURVE",
-"45 294 CURVE SMOOTH",
-"45 168 OFFCURVE",
-"139 69 OFFCURVE",
-"296 28 CURVE SMOOTH",
-"419 -4 OFFCURVE",
-"474 -43 OFFCURVE",
-"474 -92 CURVE SMOOTH",
-"474 -148 OFFCURVE",
-"426 -180 OFFCURVE",
-"340 -180 CURVE SMOOTH",
-"269 -180 OFFCURVE",
-"223 -158 OFFCURVE",
-"193 -110 CURVE SMOOTH",
-"180 -89 OFFCURVE",
-"157 -76 OFFCURVE",
-"135 -76 CURVE SMOOTH",
-"102 -76 OFFCURVE",
-"80 -104 OFFCURVE",
-"79 -133 CURVE SMOOTH",
-"79 -147 OFFCURVE",
-"82 -160 OFFCURVE",
-"91 -172 CURVE SMOOTH",
-"154 -259 OFFCURVE",
-"236 -301 OFFCURVE",
-"340 -301 CURVE SMOOTH",
-"489 -301 OFFCURVE",
-"594 -215 OFFCURVE",
-"594 -92 CURVE SMOOTH",
-"594 21 OFFCURVE",
-"518 89 OFFCURVE",
-"333 144 CURVE SMOOTH",
-"229 175 OFFCURVE",
-"165 233 OFFCURVE",
-"165 294 CURVE SMOOTH",
-"165 390 OFFCURVE",
-"238 457 OFFCURVE",
-"332 457 CURVE"
+"209 529 LINE",
+"98 489 OFFCURVE",
+"45 412 OFFCURVE",
+"45 292 CURVE SMOOTH",
+"45 170 OFFCURVE",
+"137 73 OFFCURVE",
+"290 33 CURVE SMOOTH",
+"410 2 OFFCURVE",
+"463 -36 OFFCURVE",
+"463 -84 CURVE SMOOTH",
+"463 -139 OFFCURVE",
+"417 -170 OFFCURVE",
+"333 -170 CURVE SMOOTH",
+"263 -170 OFFCURVE",
+"219 -149 OFFCURVE",
+"189 -102 CURVE SMOOTH",
+"176 -81 OFFCURVE",
+"154 -69 OFFCURVE",
+"133 -69 CURVE SMOOTH",
+"100 -69 OFFCURVE",
+"80 -96 OFFCURVE",
+"79 -124 CURVE SMOOTH",
+"79 -138 OFFCURVE",
+"81 -151 OFFCURVE",
+"89 -162 CURVE SMOOTH",
+"152 -247 OFFCURVE",
+"231 -288 OFFCURVE",
+"333 -288 CURVE SMOOTH",
+"478 -288 OFFCURVE",
+"581 -204 OFFCURVE",
+"581 -84 CURVE SMOOTH",
+"581 26 OFFCURVE",
+"506 91 OFFCURVE",
+"326 146 CURVE SMOOTH",
+"225 177 OFFCURVE",
+"162 233 OFFCURVE",
+"162 292 CURVE SMOOTH",
+"162 386 OFFCURVE",
+"233 451 OFFCURVE",
+"325 451 CURVE"
 );
 }
 );
@@ -55994,15 +55995,14 @@ width = 350;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0, 1, 160, 0}";
+transform = "{1, 0, 0, 1, 207, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0, 1, -47, 0}";
 }
 );
 layerId = "2E7D65B2-411D-4607-BF7C-7C0096008F1D";
-width = 476;
+width = 481;
 }
 );
 leftMetricsKey = "=minute";
